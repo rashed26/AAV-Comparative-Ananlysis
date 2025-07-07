@@ -1,4 +1,4 @@
-# Comparative Study: Supervised and Semi-Supervised Image Classification
+# Comparative Study: Supervised and Semi-Supervised AAV Image Classification
 
 This repository contains the implementation and evaluation of supervised and semi-supervised learning approaches for multi-class image classification. Our goal is to compare the performance of traditional machine learning classifiers trained on deep CNN-based features with modern semi-supervised methods that utilize both labeled and unlabeled data.
 
